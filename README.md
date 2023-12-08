@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhawnaGupta25
-- 👀 I’m interested in MySQL and Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to learning.
+- 👀 I’m interested in Research and Data Analystics
+- 🌱 I know Python, MySQL
 - 📫 How to reach me BhawnaGupta25
 
 <!---
